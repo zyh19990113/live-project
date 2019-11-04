@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="live-project:jar">
+    <output-path>$PROJECT_DIR$/../live-project的exe</output-path>
+    <root id="archive" name="live-project.jar">
+      <element id="module-output" name="live-project" />
+    </root>
+  </artifact>
+</component>
